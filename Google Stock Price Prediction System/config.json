@@ -1,0 +1,1 @@
+{"sequence_length": 30, "feature_names": ["Close", "Volume", "SMA_20", "SMA_50", "EMA_20", "EMA_50", "MACD", "MACD_Signal", "RSI", "BB_High", "BB_Low", "Daily_Return", "Rolling_Volatility_10", "Rolling_Volatility_20", "Close_lag_1", "Close_lag_2", "Close_lag_3", "Close_lag_5", "Close_lag_10", "Volume_lag_1", "Volume_lag_2", "Volume_lag_3", "Volume_lag_5", "Volume_lag_10"]}
