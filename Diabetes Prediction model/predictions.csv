@@ -1,0 +1,101 @@
+gender,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level,Prediction,Probability
+Other,25,1,1,former,38.7,8.5,164,Diabetes,0.9981269
+Male,80,1,0,current,37.2,7.0,141,Diabetes,0.9995807
+Other,28,1,1,former,21.5,5.8,108,No Diabetes,0.0011881839
+Other,25,1,0,former,15.4,7.5,187,Diabetes,0.99854493
+Male,52,0,0,former,38.3,6.4,72,No Diabetes,0.00034135816
+Male,52,0,1,never,27.5,5.9,192,No Diabetes,0.14795661
+Other,50,1,0,never,28.5,7.5,119,Diabetes,0.98943275
+Female,22,1,1,never,32.1,5.2,81,No Diabetes,1.2992141e-05
+Other,58,0,0,current,30.4,5.7,123,No Diabetes,0.0001147993
+Other,45,0,1,not current,38.6,6.2,126,No Diabetes,0.39443246
+Other,24,1,0,former,38.6,5.3,181,No Diabetes,4.7788308e-05
+Other,89,0,1,former,36.7,6.0,116,No Diabetes,0.00050826237
+Male,29,1,1,current,30.9,6.9,154,Diabetes,0.99959165
+Other,51,1,1,former,35.0,7.7,135,Diabetes,0.99960166
+Female,50,0,1,never,31.9,7.8,144,Diabetes,0.99938893
+Male,65,0,1,not current,29.3,8.1,172,Diabetes,0.99935144
+Female,40,1,0,ever,18.2,7.7,107,Diabetes,0.9837922
+Female,79,1,0,former,35.3,7.4,119,Diabetes,0.9919035
+Female,54,0,0,never,35.5,5.2,167,No Diabetes,0.0001338908
+Female,61,1,1,ever,30.6,6.0,151,No Diabetes,0.4125632
+Male,52,0,0,not current,35.5,6.4,99,No Diabetes,0.00021923667
+Male,82,1,1,ever,31.3,4.4,148,No Diabetes,0.00030134118
+Female,64,0,1,never,20.2,6.6,160,No Diabetes,0.17012317
+Female,20,0,0,ever,21.8,6.2,121,No Diabetes,0.00012561558
+Male,18,0,0,current,20.4,8.0,148,Diabetes,0.99884856
+Male,22,1,1,ever,24.4,8.9,99,Diabetes,0.99289155
+Male,31,1,0,former,16.0,6.8,175,Diabetes,0.99907047
+Other,44,0,1,former,30.5,5.6,120,No Diabetes,1.5529407e-05
+Other,26,1,1,current,23.4,4.2,150,No Diabetes,0.00020083177
+Other,32,0,1,never,31.4,8.6,98,Diabetes,0.99376005
+Female,59,0,1,former,24.6,8.6,143,Diabetes,0.99924785
+Other,68,1,1,not current,32.0,5.3,86,No Diabetes,1.8074232e-05
+Female,80,1,0,former,23.5,7.5,153,Diabetes,0.9990752
+Female,69,0,0,former,21.5,4.4,138,No Diabetes,0.00010984388
+Other,21,1,1,never,27.4,4.8,103,No Diabetes,1.0890971e-05
+Female,40,1,1,ever,32.3,5.1,75,No Diabetes,2.7330847e-05
+Other,32,0,0,former,23.7,5.5,122,No Diabetes,9.569418e-06
+Other,60,0,0,current,38.4,9.0,195,Diabetes,0.9993882
+Male,46,1,1,ever,16.0,7.5,112,Diabetes,0.99060947
+Other,53,0,0,not current,25.4,5.9,184,No Diabetes,0.035530448
+Male,30,0,1,never,39.2,7.7,180,Diabetes,0.9992455
+Other,49,1,0,not current,28.7,8.6,149,Diabetes,0.9991093
+Other,88,0,1,ever,25.6,8.8,164,Diabetes,0.9992372
+Male,76,0,0,ever,29.2,4.3,187,No Diabetes,0.00025587465
+Male,45,1,1,ever,29.4,6.0,77,No Diabetes,0.00036846
+Other,83,1,0,not current,33.3,4.5,173,No Diabetes,0.00019795644
+Female,59,0,0,ever,18.2,5.7,94,No Diabetes,3.5834702e-05
+Male,62,0,1,not current,21.3,4.8,165,No Diabetes,0.00021029172
+Female,79,1,0,ever,29.5,7.2,162,Diabetes,0.9994791
+Female,74,1,1,current,36.7,5.9,130,Diabetes,0.56897277
+Female,23,1,0,ever,29.0,5.1,191,No Diabetes,8.746421e-05
+Male,45,1,1,not current,21.0,5.3,120,No Diabetes,2.5553934e-05
+Female,45,0,0,former,32.0,5.8,90,No Diabetes,0.00012998421
+Male,61,1,1,ever,33.5,5.3,74,No Diabetes,1.9505245e-05
+Female,47,1,0,former,21.0,6.3,161,No Diabetes,0.033680804
+Other,79,0,1,current,24.4,4.2,130,No Diabetes,0.00025367198
+Other,79,1,0,never,28.4,5.4,91,No Diabetes,2.3382932e-05
+Male,18,0,1,current,27.4,6.1,139,No Diabetes,0.026042398
+Other,44,1,1,ever,24.7,7.0,70,Diabetes,0.99441683
+Other,79,1,1,former,22.4,5.4,81,No Diabetes,2.6835149e-05
+Female,20,1,0,former,17.5,4.7,159,No Diabetes,7.204319e-05
+Male,87,0,1,not current,16.3,4.4,115,No Diabetes,7.1277004e-06
+Female,89,0,0,former,39.0,8.7,103,Diabetes,0.9913305
+Female,44,1,1,not current,36.2,6.1,147,No Diabetes,0.44825417
+Female,26,0,0,never,23.9,6.9,114,Diabetes,0.9812159
+Female,79,0,1,ever,38.9,8.6,142,Diabetes,0.99942005
+Female,54,0,0,not current,31.9,4.4,95,No Diabetes,1.0773362e-05
+Female,68,0,0,never,27.1,8.4,116,Diabetes,0.9863694
+Female,61,0,1,former,27.3,6.8,190,Diabetes,0.99940145
+Male,41,0,0,former,17.1,4.8,125,No Diabetes,1.0248207e-05
+Other,76,1,0,never,17.3,6.1,163,No Diabetes,0.2746493
+Female,49,1,1,former,30.1,7.9,176,Diabetes,0.9993919
+Female,69,0,0,never,28.8,6.4,132,No Diabetes,0.16281144
+Female,79,1,0,not current,20.3,8.9,117,Diabetes,0.9886891
+Female,75,1,0,not current,38.7,5.9,130,No Diabetes,0.34703487
+Female,69,1,1,never,34.5,7.7,150,Diabetes,0.99968076
+Female,29,1,0,not current,17.8,6.0,95,No Diabetes,0.00028234374
+Other,56,0,1,not current,38.3,8.1,105,Diabetes,0.9944279
+Other,19,1,0,not current,39.4,6.8,70,Diabetes,0.9842934
+Female,20,1,0,current,39.9,4.3,77,No Diabetes,8.127941e-06
+Other,73,0,0,ever,16.4,4.2,182,No Diabetes,9.2465554e-05
+Male,76,0,1,former,33.4,4.7,168,No Diabetes,0.0003797122
+Female,19,1,0,current,28.6,4.1,116,No Diabetes,1.3093425e-05
+Male,19,1,0,not current,32.6,4.4,196,No Diabetes,4.9853734e-05
+Male,71,1,1,never,39.2,7.5,125,Diabetes,0.9940696
+Female,18,1,0,not current,32.2,6.7,83,No Diabetes,0.00014618952
+Other,36,1,1,ever,35.9,7.7,97,Diabetes,0.99416876
+Male,19,1,1,not current,36.7,8.6,147,Diabetes,0.99862134
+Female,70,0,0,never,36.0,6.9,199,Diabetes,0.99953353
+Male,61,1,1,ever,25.7,7.6,178,Diabetes,0.99929273
+Male,49,1,0,not current,20.6,7.8,83,Diabetes,0.9836563
+Male,87,0,1,ever,24.9,5.9,125,No Diabetes,0.00022193632
+Male,49,0,1,former,37.3,5.2,184,No Diabetes,0.00020268488
+Other,85,0,0,former,18.7,5.0,76,No Diabetes,8.129313e-06
+Male,72,0,1,not current,27.8,5.3,72,No Diabetes,1.6111439e-05
+Male,73,1,1,ever,20.8,5.4,180,No Diabetes,0.00019572787
+Male,34,1,1,never,29.5,5.0,176,No Diabetes,0.00017031858
+Other,55,1,1,not current,36.6,8.4,87,Diabetes,0.99524754
+Male,41,1,1,former,37.0,7.8,107,Diabetes,0.99083686
+Male,86,1,0,former,20.9,4.2,184,No Diabetes,0.00019028338
